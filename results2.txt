@@ -1,0 +1,59 @@
+Combo: 1 
+['grnd-rx', 'grnd-ry', 'grnd-lx', 'grnd-ly']
+<class 'my_model_selectors.SelectorBIC'>
+
+--
+Combo: 2 
+['grnd-rx', 'grnd-ry', 'grnd-lx', 'grnd-ly']
+<class 'my_model_selectors.SelectorDIC'>
+
+--
+Combo: 3 
+['grnd-rx', 'grnd-ry', 'grnd-lx', 'grnd-ly']
+<class 'my_model_selectors.SelectorCV'>
+
+--
+Combo: 4 
+['polar-rr', 'polar-rtheta', 'polar-lr', 'polar-ltheta']
+<class 'my_model_selectors.SelectorBIC'>
+
+--
+Combo: 5 
+['polar-rr', 'polar-rtheta', 'polar-lr', 'polar-ltheta']
+<class 'my_model_selectors.SelectorDIC'>
+
+--
+Combo: 6 
+['polar-rr', 'polar-rtheta', 'polar-lr', 'polar-ltheta']
+<class 'my_model_selectors.SelectorCV'>
+
+--
+Combo: 7 
+['delta-rx', 'delta-ry', 'delta-lx', 'delta-ly']
+<class 'my_model_selectors.SelectorBIC'>
+
+--
+Combo: 8 
+['delta-rx', 'delta-ry', 'delta-lx', 'delta-ly']
+<class 'my_model_selectors.SelectorDIC'>
+
+--
+Combo: 9 
+['delta-rx', 'delta-ry', 'delta-lx', 'delta-ly']
+<class 'my_model_selectors.SelectorCV'>
+
+--
+Combo: 10 
+['hands-x', 'hands-y', 'delta-hands-x', 'delta-hands-y']
+<class 'my_model_selectors.SelectorBIC'>
+
+--
+Combo: 11 
+['hands-x', 'hands-y', 'delta-hands-x', 'delta-hands-y']
+<class 'my_model_selectors.SelectorDIC'>
+
+--
+Combo: 12 
+['hands-x', 'hands-y', 'delta-hands-x', 'delta-hands-y']
+<class 'my_model_selectors.SelectorCV'>
+
